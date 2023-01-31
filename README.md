@@ -23,6 +23,9 @@ How I consoldiated the Side Bar Content
 
 ![alt text](./Develop/assets/images/Benefits-Consolidation.png)
 
+Link to Website is below
+https://rosebudroro.github.io/Horiseon-Challenge-1/
+
 ## Credits
 
 N/A
