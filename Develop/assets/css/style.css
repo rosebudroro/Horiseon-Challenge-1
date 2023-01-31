@@ -44,6 +44,7 @@ a {
     text-decoration: none;
 }
 
+/* Rules for Banner Image */
 
 .hero {
     height: 800px;
@@ -90,7 +91,7 @@ a {
     font-size: 36px;
 }
 
-/* Rules for Side Bar */
+/* Rules for Side Bar, consolidated all i */
 
 .benefits {
     margin-right: 20px;
@@ -101,7 +102,7 @@ a {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-    margin: 32px;
+    margin: 20px;
     color: #ffffff;
     text-align: center
 }
@@ -110,7 +111,6 @@ a {
     margin-bottom: 10px;
     text-align: center;
 }
-
 
 .benefits img {
     display: block;
