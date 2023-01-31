@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-The screenshots below show my updated CSS on the left side compared to the original code Horiseon provided me with on the right side.
+The screenshots below show my updated CSS on the left side compared to the original code Horiseon provided me with on the right side. You can see the unneccesary repititon of code on the right compared to the cleaned up code on the left.
 
 How I Consolidated the Main Content
 
