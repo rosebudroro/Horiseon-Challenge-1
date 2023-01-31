@@ -55,7 +55,7 @@ a {
     background-position: center;
 }
 
-/* Rules For Main Content */
+/* Rules For Main Content, consolidated each different class into one class "Article" since all 3 sections contained the same rules */
 
 .float-left {
     float: left;
@@ -91,7 +91,7 @@ a {
     font-size: 36px;
 }
 
-/* Rules for Side Bar, consolidated all i */
+/* Rules for Side Bar, consolidated all separate section properties into one class "benefits" and for the images  */
 
 .benefits {
     margin-right: 20px;
@@ -118,7 +118,7 @@ a {
     max-width: 150px;
 }
 
-/* Rules For Footer at the Bottom of the Page */
+/* Rules For Footer at the Bottom of the Page, combined the two footer rules into one */
 
 .footer {
     padding: 30px;
